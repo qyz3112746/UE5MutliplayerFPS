@@ -1,9 +1,9 @@
-# UE5MutliplayerFPS
-A UE5.1 Mutliplayer FPS learnning project.
+# UE5MutliplayerPlugin
+A UE5.1 Mutliplayer Plugin.
 
-这是一个学习用UE5.1制作多人FPS游戏的项目。
+这是一个用于UE5.1多人游戏的插件。
 
-UE5.1を用いてマルチハンドFPSゲームを作ることを勉強するためのproject.
+UE5.1を用いてマルチハンドPluginを作ることを勉強するためのproject.
 
 The tutorial video is coming from:
 
